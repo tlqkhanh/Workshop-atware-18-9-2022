@@ -1,3 +1,5 @@
 Name: tlqkhanh (real name: Quoc Khanh)
 Hobby: programming and gaming
 Age: 19
+University: HCMUT
+Year: 2022

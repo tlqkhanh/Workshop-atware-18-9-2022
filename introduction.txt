@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Name: Quoc Khanh
 Hobby: gaming, programming
+=======
+Name: tlqkhanh
+Hobby: programming
+>>>>>>> 6e4dd00 (Update introduction.txt)
 Age: 19
